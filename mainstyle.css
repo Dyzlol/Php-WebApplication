@@ -1,0 +1,12 @@
+form { display: inline; }
+
+div { height:2.5px;
+      width: 45em;
+      border: 1px solid; }
+
+img { display: inline;
+        float: left; }
+
+label {
+      font-weight: bold;
+}
